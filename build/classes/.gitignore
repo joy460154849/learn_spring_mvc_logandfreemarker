@@ -1,0 +1,6 @@
+/db/
+/freemarker/
+/log4j.properties
+/springmvcjdbc/
+/test/
+/utils/

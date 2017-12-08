@@ -1,0 +1,3 @@
+基于JDBC驱动的数据源配置
+添加了日志：log4j.properties
+配置了freemarker
